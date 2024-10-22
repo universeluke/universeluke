@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## Welcome to my GitHub profile!
+## I've just joined the School of Code, and am excited to continue to learn how to code
+
 <!--
 **universeluke/universeluke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
